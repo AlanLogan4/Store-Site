@@ -1,0 +1,98 @@
+.home{
+    background-image: url(images/PictureOfVideogames.png);
+    background-repeat: no-repeat;
+    background-size: 3000px;
+    background-position-x: center;
+   
+    
+}
+.videogames{
+
+}
+.merch{
+
+}
+.console{
+
+}
+
+.navi{
+    padding-left: 0;
+    list-style: none;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(173, 28, 28);
+    
+
+
+}
+
+.navi li{
+    display: inline-block;
+    border: 3px outset;
+    font-size: 100px;
+    
+    
+}
+
+.navi li a{
+    
+    color: white;
+    font-size: 50px;
+    font-size: 75px;
+    
+    
+}
+
+.consoles1:hover{
+    background-image: url(images/PictureOfGameConsoles.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.home1:hover{
+    background-image: url(images/PictureOfHome.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.equiptment1:hover{
+    background-image: url(images/PictureOfGamerEquipment.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.videogames1:hover{
+    background-image: url(images/pictureOfVideogames2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+article{
+    border-width: thick;
+    border-bottom: black;
+    background-color: white;
+    margin-top: 975px;
+}
+
+.title{
+    text-align: center;
+    background-color: white;
+    font-size: 75px;
+    margin: auto;
+}
+.phrase{
+    text-align: center;
+    background-color: white;
+    font-size: 100px;
+    margin: auto;
+}

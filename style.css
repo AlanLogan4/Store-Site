@@ -9,7 +9,7 @@
 .videogames{
 
 }
-.merch{
+.equiment{
 
 }
 .console{
@@ -23,17 +23,12 @@
     margin: auto;
     text-align: center;
     background-color: rgb(173, 28, 28);
-    
-
-
 }
 
 .navi li{
     display: inline-block;
     border: 3px outset;
     font-size: 100px;
-    
-    
 }
 
 .navi li a{
@@ -41,8 +36,7 @@
     color: white;
     font-size: 50px;
     font-size: 75px;
-    
-    
+    text-decoration: none;
 }
 
 .consoles1:hover{
@@ -50,7 +44,6 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-
 }
 
 .home1:hover{
@@ -81,18 +74,44 @@ article{
     border-width: thick;
     border-bottom: black;
     background-color: white;
-    margin-top: 975px;
+    align-items: baseline;
+    margin: auto;
 }
 
+ .games{
+    display: inline-block;
+    position: absolute;
+
+}
+
+hr{
+    
+    margin-top: 50px;
+}
 .title{
     text-align: center;
     background-color: white;
     font-size: 75px;
     margin: auto;
+    margin-top: 200px;
+    margin-bottom: 100px;
 }
 .phrase{
     text-align: center;
     background-color: white;
     font-size: 100px;
     margin: auto;
+    margin-bottom: 309px;
+}
+
+.videogames div{
+    margin-top: 100px;
+    
+}
+
+
+
+button a{
+    text-decoration: none;
+    
 }

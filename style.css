@@ -1,19 +1,7 @@
-.home{
+body{
     background-image: url(images/PictureOfVideogames.png);
-    background-repeat: no-repeat;
     background-size: 3000px;
     background-position-x: center;
-   
-    
-}
-.videogames{
-
-}
-.equiment{
-
-}
-.console{
-
 }
 
 .navi{
@@ -68,6 +56,7 @@
     background-position: center;
     
 }
+
 
 
 article{
